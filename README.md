@@ -1,210 +1,197 @@
-<p align="center">
-  <img src="bannerrr.png" alt="Banner" width="100%">
-</p>
+---
+
 <div align="center">
 
-# ✿ hi, i'm devi ♡
-
-### computer science student • open-source developer • neurotech enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1500&color=F2A2C7&center=true&vCenter=true&width=650&lines=building+little+ideas+into+real+things...;currently+exploring+brain-computer+interfaces;open+source+%E2%9D%A4;designing+with+curiosity+%E2%9C%A8" />
-
-<img src="https://komarev.com/ghpvc/?username=devzzafk&label=visitors&color=f8c8dc&style=flat" />
-
-</div>
-
----
-
-## 🌷 about me
-
-```txt
-☁︎ computer science engineering student
-
-☁︎ building open-source software
-
-☁︎ freelancer & technical speaker
-
-☁︎ interested in
-
-   🧠 brain-computer interfaces
-   🌱 neurotechnology
-   🤖 agentic ai
-   📚 rag systems
-   ✨ machine learning
-   ☁️ data engineering
-   🎨 ui/ux & graphic design
-
-☁︎ i love turning random ideas into projects.
-```
-
----
-
-## ✿ currently
-
-- 🌸 building open-source AI tools
-- 📖 learning more about BCI & neural engineering
-- 🎤 conducting technical workshops
-- ☕ surviving college one coffee at a time
-
----
-
-## 🍃 community
-
-```txt
-✿ first year coordinator
-  └── TinkerHub '25
-
-✿ content co-lead
-  └── AlgoZenith '25
-
-✿ program coordinator
-  └── Bodhi Club '26
-
-✿ google gemini student ambassador
-
-✿ google developers member
-
-✿ neurotechx member
-
-✿ oscg campus lead
-```
-
----
-
-# 🌼 things i've built
-
-### 🧠 Aether Protocol
-
-> an open-source memory layer for AI agents.
-
-semantic search • persistent memory • mcp • user profiling
-
----
-
-### 🌿 NeuroBridge
-
-> simulated brain-computer interface platform for assistive communication.
-
----
-
-### 🌙 EchoLens
-
-> ai-powered spatial understanding.
-
----
-
-### ⚡ Axiom Neural
-
-> synthetic eeg generation framework for neural engineering research.
-
----
-
-## 🌸 i enjoy talking about
-
-```
-web development
-
-react
-
-next.js
-
-python
-
-rag
-
-agentic ai
-
-brain-computer interfaces
-
-neurotechnology
-
-machine learning
-
-firebase
-
-open source
-
-git & github
-
-career guidance
-```
-
----
-
-## 🌷 tech garden
+# ⚒️ Tech Arsenal
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,react,nextjs,nodejs,flutter,tensorflow,firebase,mysql,git,github,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,mysql,postgres,supabase,git,github,docker,linux,aws,gcp,vercel,netlify,vscode,figma,ai,ps"/>
+
+</p>
+
+</div>
+
+---
+
+# 🧠 AI / ML Stack
+
+```text
+✓ TensorFlow
+✓ PyTorch
+✓ Scikit-Learn
+✓ Pandas
+✓ NumPy
+✓ OpenCV
+✓ Transformers
+✓ HuggingFace
+✓ LangChain
+✓ LlamaIndex
+✓ Ollama
+✓ MNE
+✓ Vector Databases
+✓ Retrieval-Augmented Generation
+✓ MCP
+✓ Agentic AI
+```
+
+---
+
+# 💼 Leadership & Communities
+
+| Role | Organization |
+|------|--------------|
+| 🚀 Technical Lead | AWS Student Community • 2026 |
+| 💎 Google Gemini Student Ambassador | Google |
+| 🌍 Google Developer Groups Member | GDG |
+| 🧠 NeuroTechX Member | NeuroTechX |
+| 💻 OSCG Campus Lead | 2025 |
+| 🌱 First Year Coordinator | TinkerHub '25 |
+| ✨ Content Co-Lead | AlgoZenith '25 |
+| 🎉 Program Coordination Team | Bodhi Club '26 |
+
+---
+
+# 🎤 Technical Speaker
+
+I regularly conduct **offline & online technical sessions** on
+
+- 🌐 Full Stack Web Development
+- 🤖 AI & Machine Learning
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Brain–Computer Interfaces
+- 🌱 Neurotechnology
+- ☁️ Data Engineering
+- 🚀 Open Source
+- 💼 Freelancing for Students
+
+---
+
+# 💼 Freelancing
+
+```yaml
+Clients:
+  50+
+
+Services:
+  - Full Stack Development
+  - AI Applications
+  - UI/UX Design
+  - Technical Consulting
+  - Portfolio Websites
+  - Community Workshops
+
+Available:
+  Yes ✔
+```
+
+---
+
+# 🌸 Achievements
+
+🏆 Smart India Hackathon Nominee
+
+🚀 ISRO Bharatiya Antariksh Hackathon
+
+🤖 Microsoft AI Skills Fest
+
+🌍 Open Source Contributor
+
+💼 50+ Freelance Clients
+
+🎤 Technical Speaker
+
+🧠 AI Builder
+
+🌱 Community Leader
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this after setting up the GitHub Action.
+
+```text
+github-contribution-grid-snake.svg
+```
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/juuneverse">
+<img src="https://img.shields.io/badge/@juuneverse-Building%20In%20Public-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.instagram.com/juness.archives">
+<img src="https://img.shields.io/badge/@juness.archives-Behind%20The%20Scenes-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
 </p>
 
 ---
 
-## ☁️ github
+# 💭 Philosophy
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+> "Technology should amplify human potential, not replace it."
 
 ---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devzzafk&theme=transparent&hide_border=true"/>
+### Thanks for visiting! ⭐
 
-</div>
+```
+while(alive){
 
----
+    learn();
 
-## 🌼 little achievements
+    build();
 
-🌸 Smart India Hackathon Nominee
+    share();
 
-🌸 ISRO Bharatiya Antariksh Hackathon
+    repeat();
 
-🌸 Microsoft AI Skills Fest
-
-🌸 Google Gemini Student Ambassador
-
-🌸 Open Source Contributor
-
-🌸 50+ freelance clients
-
-🌸 technical speaker
-
----
-
-## ✨ currently obsessed with
-
-```txt
-brain-computer interfaces
-
-neural engineering
-
-agentic ai
-
-rag
-
-machine learning
-
-building beautiful software
-
-open source
+}
 ```
 
----
-
-<div align="center">
-
-### ♡ thanks for stopping by
-
-*"building things that might make someone's life a little better."*
-
-🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
