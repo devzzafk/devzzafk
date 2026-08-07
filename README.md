@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="./bannerrrrr.png" alt="Devi Chandran Banner" width="100%">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c5d1,50:c7ceea,100:b5ead7&height=200&section=header&text=devi%20chandran&fontSize=54&fontColor=4a4458&animation=fadeIn&fontAlignY=36&desc=✿%20open%20source%20·%20freelancer%20·%20technical%20speaker%20✿&descSize=16&descAlignY=57" width="100%" />
 
