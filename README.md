@@ -1,55 +1,112 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Devi Chandran — developer and neurotech explorer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=DEVI%20CHANDRAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=OPEN%20SOURCE%20%E2%80%A2%20AI%20%E2%80%A2%20NEUROTECHNOLOGY&descAlignY=57&descSize=17&color=0:09090b,50:171329,100:312e81" width="100%"/>
 
 <br>
 
-<a href="https://devi-portfolios.netlify.app/"><img src="https://img.shields.io/badge/portfolio-visit-9B7EBD?style=flat-square" /></a>
-&nbsp;
-<a href="https://github.com/devzzafk"><img src="https://img.shields.io/badge/github-devzzafk-24292e?style=flat-square&logo=github" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devichandrans/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.instagram.com/__devvzz/"><img src="https://img.shields.io/badge/instagram-__devvzz-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Open+Source+Builder;AI+%26+Neurotechnology+Enthusiast;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Technical+Speaker+%7C+Freelancer;Building+things+worth+clicking." />
 
 <br><br>
 
-<sub>CS undergraduate · developer · neurotech explorer · community builder</sub>
+<a href="https://github.com/devzzafk">
+<img src="https://img.shields.io/github/followers/devzzafk?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=18181b"/>
+</a>
+&nbsp;
+<a href="https://github.com/devzzafk?tab=repositories">
+<img src="https://img.shields.io/github/stars/devzzafk?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=18181b"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/devzzafk/">
+<img src="https://img.shields.io/badge/LEETCODE-devzzafk-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://devi-portfolios.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-visit-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devichandrans/">
+<img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:devuz19693@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=devzzafk&style=flat-square&label=PROFILE%20VIEWS&color=8B5CF6"/>
 
 </div>
 
-<br>
+---
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+## `01` — whoami
 
-## / about
+```text
+Devi Chandran S.
+
+open-source builder
+technical speaker
+freelancer
+computer science engineer
+
+I build open-source projects, AI systems and interfaces
+that sit somewhere between technology and curiosity.
+
+Currently exploring:
+→ brain-computer interfaces
+→ neurotechnology
+→ agentic AI
+→ RAG systems
+→ machine learning
+→ data engineering
+→ UI/UX & graphic design
+```
+
+I like working across disciplines instead of staying inside one box.
+
+Sometimes I'm building an AI system.
+Sometimes I'm designing an interface.
+Sometimes I'm teaching someone how it works.
+Sometimes I'm just trying to figure out **why it works.**
+
+---
+
+## `02` — current focus
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%">
 
-### building at the edges
+### `🧠` Neurotechnology
 
-I enjoy making things that sit somewhere between **software, data and human problems**.
-
-Right now my playground is a mix of:
-
-`web` · `mobile` · `data` · `cloud` · `neurotech`
-
-I learn by building — from small experiments and club projects to EEG pipelines and full applications.
+Exploring **BCIs, neural signals, assistive technology and human-computer interaction.**
 
 </td>
-<td width="45%" valign="top">
+<td width="50%">
 
-```text
-CURRENTLY
+### `🤖` Agentic AI
 
-01  exploring EEG + BCI
-02  building with React
-03  shipping React Native apps
-04  learning cloud + data
-05  designing better interfaces
-```
+Experimenting with **AI agents, tool use, memory, MCP and autonomous workflows.**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### `📚` RAG & Knowledge
+
+Building systems around **semantic search, retrieval, embeddings, vector databases and long-term knowledge.**
+
+</td>
+<td>
+
+### `✨` Machine Learning
+
+Experimenting with **ML pipelines, computer vision, signal processing and intelligent systems.**
 
 </td>
 </tr>
@@ -57,169 +114,312 @@ CURRENTLY
 
 ---
 
-## / toolkit
+## `03` — featured work
+
+### `01` Aether Protocol
+
+**Open-source memory infrastructure for AI agents.**
+
+Aether explores persistent memory for agents through:
+
+`Semantic Search` · `User Profiling` · `Long-Term Memory` · `MCP`
+
+**→ [aether-protocols.netlify.app](https://aether-protocols.netlify.app)**
+
+---
+
+### `02` EchoLens
+
+**AI-powered environment understanding.**
+
+An experimental system designed to help people interpret and understand unfamiliar physical spaces.
+
+`Computer Vision` · `AI` · `Accessibility` · `Human-AI Interaction`
+
+**→ [echolens-opal.vercel.app](https://echolens-opal.vercel.app)**
+
+---
+
+### `03` DewDrop FM
+
+**A modern music experience.**
+
+An experimental web project focused on interface, interaction and the experience of discovering music.
+
+**→ [dew-drop-fm.vercel.app](https://dew-drop-fm.vercel.app)**
+
+---
+
+### `04` More experiments
+
+I build a lot of things that don't always become "products".
+
+Some become prototypes.
+Some become research.
+Some become weird weekend experiments.
+
+And honestly, that's half the fun.
+
+**→ [Browse all my repositories](https://github.com/devzzafk?tab=repositories)**
+
+---
+
+## `04` — tech stack
 
 <div align="center">
 
-| | |
-|:---|:---|
-| **LANGUAGES** | Python · C · C++ · Java · JavaScript |
-| **WEB** | HTML · CSS · React · Next.js · Node.js · Vite |
-| **MOBILE** | React Native · Expo |
-| **DATA** | NumPy · Pandas · SciPy · Matplotlib · scikit-learn · Jupyter |
-| **CLOUD** | AWS · Firebase · Supabase · Vercel · Netlify · MySQL |
-| **NEUROTECH** | MNE-Python · EEG · EDF · CSP · SVM · PhysioNet · OpenBCI |
-| **DESIGN** | Figma · Canva · Adobe Illustrator · UI/UX |
-| **TOOLS** | Git · GitHub · VS Code · Linux · Postman · npm |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+
+<br><br>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,flutter" />
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<br>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `MNE` · `Transformers` · `Hugging Face` · `LangChain` · `LlamaIndex` · `Ollama`
+
+<br><br>
+
+### Cloud / DevOps / Data
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,mongodb,mysql,postgres,supabase,firebase,vercel,netlify" />
+
+<br><br>
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
 
-<details>
-<summary><b>✦ neurotech stack</b></summary>
+---
+
+## `05` — community & leadership
+
+```text
+TECHNICAL LEAD
+└── AWS Student Community · 2026
+
+GOOGLE GEMINI STUDENT AMBASSADOR
+
+GOOGLE DEVELOPERS MEMBER
+
+NEUROTECHX MEMBER
+
+OSCG CAMPUS LEAD · 2025
+
+PROGRAM COORDINATION TEAM
+└── Bodhi Club · 2026
+
+CONTENT CO-LEAD
+└── AlgoZenith · 2025
+
+FIRST YEAR COORDINATOR
+└── TinkerHub · 2025
+```
+
+---
+
+## `06` — technical speaking
+
+I don't just build things.
+
+**I teach them too.**
+
+I've conducted online and offline sessions around:
+
+```text
+WEB DEVELOPMENT
+RAG / RETRIEVAL SYSTEMS
+AI & MACHINE LEARNING
+BRAIN-COMPUTER INTERFACES
+NEUROTECHNOLOGY
+OPEN SOURCE
+FREELANCING
+```
+
+Available for:
+
+`College Sessions` · `Community Events` · `Workshops` · `Technical Talks`
+
+📩 **Speaking / collaboration:** `devuz19693@gmail.com`
+
+---
+
+## `07` — freelance
+
+### `50+ clients`
+
+I've worked with **50+ freelance clients** across development, design and technology.
+
+```text
+FULL-STACK DEVELOPMENT
+AI APPLICATIONS
+UI / UX DESIGN
+GRAPHIC DESIGN
+PORTFOLIO WEBSITES
+AI / RAG PROTOTYPES
+TECHNICAL CONSULTING
+WORKSHOPS
+```
+
+**Want to work together?**
+
+→ `devuz19693@gmail.com`
+
+---
+
+## `08` — milestones
+
+<div align="center">
+
+|    | Milestone                          |
+| -- | ---------------------------------- |
+| 🌸 | Smart India Hackathon Nominee      |
+| 🚀 | ISRO Bharatiya Antariksh Hackathon |
+| 🤖 | Microsoft AI Skills Fest           |
+| ✨  | Google Gemini Student Ambassador   |
+| 🌍 | Open Source Contributor            |
+| 💼 | 50+ Freelance Clients              |
+| 🎤 | Technical Speaker                  |
+
+</div>
+
+---
+
+# `09` — GitHub analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devzzafk&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+
+</div>
+
+---
+
+## `10` — GitHub trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devzzafk&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
+## `11` — contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devzzafk&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=F9A8D4&area_color=312E81&area=true&hide_border=true&custom_title=Devi%27s%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## `12` — LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/devzzafk/">
+
+<img src="https://leetcard.jacoblin.cool/devzzafk?theme=dark&font=Karma&ext=heatmap" width="500"/>
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/devzzafk/">
+
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## `13` — contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devzzafk/devzzafk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `14` — around the internet
+
+<div align="center">
+
+<a href="https://devi-portfolios.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devichandrans/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/juuneverse/">
+<img src="https://img.shields.io/badge/JUUNEVERSE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/juness.archives/">
+<img src="https://img.shields.io/badge/JUNES%20ARCHIVES-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:devuz19693@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `currently building things i'm curious about.`
 
 <br>
 
 ```text
-EEG
- │
- ├── acquisition
- │      └── OpenBCI / PhysioNet
- │
- ├── preprocessing
- │      └── MNE / SciPy
- │
- ├── feature extraction
- │      └── CSP
- │
- └── classification
-        └── scikit-learn / SVM
+learn  →  build  →  break  →  understand  →  ship
 ```
-
-</details>
-
----
-
-## / selected work
-
-<div align="center">
-
-<a href="https://github.com/devzzafk">
-<img src="./assets/neurobridge.svg" width="47%" alt="NeuroBridge"/>
-</a>
-&nbsp;
-<a href="https://github.com/devzzafk">
-<img src="./assets/echolens.svg" width="47%" alt="EchoLens"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/devzzafk">
-<img src="./assets/axiom-neural.svg" width="47%" alt="Axiom Neural"/>
-</a>
-&nbsp;
-<a href="https://github.com/devzzafk">
-<img src="./assets/juneverse.svg" width="47%" alt="JuneVerse"/>
-</a>
-
-</div>
 
 <br>
 
-<details>
-<summary><b>view project notes</b></summary>
-
-<br>
-
-**NeuroBridge** — exploring BCI-driven assistive communication.
-
-**EchoLens** — exploring intelligent visual/spatial awareness.
-
-**Axiom Neural** — EEG, signal processing and machine-learning experiments.
-
-**JuneVerse** — research and documentation around neurotechnology, BCIs and emerging tech.
-
-</details>
-
----
-
-## / journey
-
-```text
-2025  ──  TinkerHub                    first year coordinator
-  │
-  ├────  AlgoZenith                   content co-lead
-  │
-  └────  OSCG                          campus lead
-  │
-2026  ──  Bodhi Club                   program coordination
-  │
-  └────  AWS Student Builders Group    technical lead · LBSITW
-  │
-NOW   ──  Google Gemini Student Ambassador
-      ──  Google Developers Member
-      ──  NeurotechX Member
-```
-
----
-
-## / github
-
-<div align="center">
-
-<a href="https://github.com/devzzafk">
-<img src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B7EBD&icon_color=9B7EBD&text_color=777777&rank_icon=github&custom_title=Devi's%20GitHub" height="170"/>
-</a>
-
-<a href="https://github.com/devzzafk">
-<img src="https://streak-stats.demolab.com?user=devzzafk&hide_border=true&background=00000000&ring=9B7EBD&fire=D6A8C7&currStreakLabel=9B7EBD&sideLabels=777777&dates=999999" height="170"/>
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&hide_border=true&bg_color=00000000&title_color=9B7EBD&text_color=777777&langs_count=7" height="145"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312e81,50:171329,100:09090b" width="100%"/>
 
 </div>
 
-<br>
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### contribution garden
+Hey, future me.
 
-<div align="center">
+Keep building.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
-</div>
-
----
-
-## / currently offline
-
-```text
-if (idea.isInteresting()) {
-    build();
-    learn();
-    iterate();
-}
-```
-
-<div align="center">
-
-### let's build something interesting.
-
-<a href="mailto:devuz19693@gmail.com">devuz19693@gmail.com</a>
-
-<br><br>
-
-<a href="https://devi-portfolios.netlify.app/">portfolio ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/devzzafk">github ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/devichandrans/">linkedin ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.instagram.com/__devvzz/">instagram ↗</a>
-
-<br><br>
-
-<sub>✦ built with curiosity, tiny experiments &amp; a suspicious number of side quests ✦</sub>
-
-</div>
