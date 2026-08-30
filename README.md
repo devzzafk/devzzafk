@@ -1,112 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=DEVI%20CHANDRAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=OPEN%20SOURCE%20%E2%80%A2%20AI%20%E2%80%A2%20NEUROTECHNOLOGY&descAlignY=57&descSize=17&color=0:09090b,50:171329,100:312e81" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=DEVI%20CHANDRAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%20%E2%80%A2%20%20OPEN%20SOURCE%20%20%E2%80%A2%20%20NEUROTECHNOLOGY&descAlignY=58&descSize=16&color=0:050505,50:111827,100:4C1D95" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Open+Source+Builder;AI+%26+Neurotechnology+Enthusiast;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Technical+Speaker+%7C+Freelancer;Building+things+worth+clicking." />
-
-<br><br>
-
 <a href="https://github.com/devzzafk">
-<img src="https://img.shields.io/github/followers/devzzafk?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=18181b"/>
+<img src="https://img.shields.io/badge/GITHUB-devzzafk-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/devzzafk?tab=repositories">
-<img src="https://img.shields.io/github/stars/devzzafk?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=18181b"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/devzzafk/">
-<img src="https://img.shields.io/badge/LEETCODE-devzzafk-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
 <a href="https://devi-portfolios.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-visit-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/devichandrans/">
-<img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:devuz19693@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://leetcode.com/u/devzzafk/">
+<img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=devzzafk&style=flat-square&label=PROFILE%20VIEWS&color=8B5CF6"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=building+open+source+%E2%9C%A6;exploring+AI+agents+%26+memory;researching+neurotechnology+%26+BCIs;shipping+ideas+into+real+projects;technical+speaker+%7C+freelancer"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=devzzafk&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01` — whoami
+<div align="center">
 
-```text
-Devi Chandran S.
+### `I build things I'm curious about.`
 
-open-source builder
-technical speaker
-freelancer
-computer science engineer
+**AI systems · Open source · Neurotechnology · Interfaces**
 
-I build open-source projects, AI systems and interfaces
-that sit somewhere between technology and curiosity.
+</div>
 
-Currently exploring:
-→ brain-computer interfaces
-→ neurotechnology
-→ agentic AI
-→ RAG systems
-→ machine learning
-→ data engineering
-→ UI/UX & graphic design
-```
+<br>
 
-I like working across disciplines instead of staying inside one box.
-
-Sometimes I'm building an AI system.
-Sometimes I'm designing an interface.
-Sometimes I'm teaching someone how it works.
-Sometimes I'm just trying to figure out **why it works.**
-
----
-
-## `02` — current focus
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### `🧠` Neurotechnology
+### `50+`
 
-Exploring **BCIs, neural signals, assistive technology and human-computer interaction.**
-
-</td>
-<td width="50%">
-
-### `🤖` Agentic AI
-
-Experimenting with **AI agents, tool use, memory, MCP and autonomous workflows.**
+**Clients**
 
 </td>
-</tr>
 
-<tr>
-<td>
+<td align="center" width="25%">
 
-### `📚` RAG & Knowledge
+### `∞`
 
-Building systems around **semantic search, retrieval, embeddings, vector databases and long-term knowledge.**
+**Ideas**
 
 </td>
-<td>
 
-### `✨` Machine Learning
+<td align="center" width="25%">
 
-Experimenting with **ML pipelines, computer vision, signal processing and intelligent systems.**
+### `AI`
+
+**Current rabbit hole**
+
+</td>
+
+<td align="center" width="25%">
+
+### `24/7`
+
+**Building mode**
 
 </td>
 </tr>
@@ -114,283 +80,344 @@ Experimenting with **ML pipelines, computer vision, signal processing and intell
 
 ---
 
-## `03` — featured work
+# ✦ SELECTED WORK
 
-### `01` Aether Protocol
+<table>
+<tr>
 
-**Open-source memory infrastructure for AI agents.**
+<td width="50%" valign="top">
 
-Aether explores persistent memory for agents through:
+## 🧠 Aether Protocol
 
-`Semantic Search` · `User Profiling` · `Long-Term Memory` · `MCP`
+**Memory for AI agents.**
 
-**→ [aether-protocols.netlify.app](https://aether-protocols.netlify.app)**
+An open-source memory platform with:
 
----
-
-### `02` EchoLens
-
-**AI-powered environment understanding.**
-
-An experimental system designed to help people interpret and understand unfamiliar physical spaces.
-
-`Computer Vision` · `AI` · `Accessibility` · `Human-AI Interaction`
-
-**→ [echolens-opal.vercel.app](https://echolens-opal.vercel.app)**
-
----
-
-### `03` DewDrop FM
-
-**A modern music experience.**
-
-An experimental web project focused on interface, interaction and the experience of discovering music.
-
-**→ [dew-drop-fm.vercel.app](https://dew-drop-fm.vercel.app)**
-
----
-
-### `04` More experiments
-
-I build a lot of things that don't always become "products".
-
-Some become prototypes.
-Some become research.
-Some become weird weekend experiments.
-
-And honestly, that's half the fun.
-
-**→ [Browse all my repositories](https://github.com/devzzafk?tab=repositories)**
-
----
-
-## `04` — tech stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
-
-<br><br>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,flutter" />
-
-<br><br>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+`Semantic Search`
+`Long-Term Memory`
+`User Profiling`
+`MCP`
 
 <br>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `MNE` · `Transformers` · `Hugging Face` · `LangChain` · `LlamaIndex` · `Ollama`
+<a href="https://aether-protocols.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 
-<br><br>
+</td>
 
-### Cloud / DevOps / Data
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,mongodb,mysql,postgres,supabase,firebase,vercel,netlify" />
+## 👁️ EchoLens
 
-<br><br>
+**Understanding unfamiliar spaces.**
 
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-
-</div>
-
----
-
-## `05` — community & leadership
-
-```text
-TECHNICAL LEAD
-└── AWS Student Community · 2026
-
-GOOGLE GEMINI STUDENT AMBASSADOR
-
-GOOGLE DEVELOPERS MEMBER
-
-NEUROTECHX MEMBER
-
-OSCG CAMPUS LEAD · 2025
-
-PROGRAM COORDINATION TEAM
-└── Bodhi Club · 2026
-
-CONTENT CO-LEAD
-└── AlgoZenith · 2025
-
-FIRST YEAR COORDINATOR
-└── TinkerHub · 2025
-```
-
----
-
-## `06` — technical speaking
-
-I don't just build things.
-
-**I teach them too.**
-
-I've conducted online and offline sessions around:
-
-```text
-WEB DEVELOPMENT
-RAG / RETRIEVAL SYSTEMS
-AI & MACHINE LEARNING
-BRAIN-COMPUTER INTERFACES
-NEUROTECHNOLOGY
-OPEN SOURCE
-FREELANCING
-```
-
-Available for:
-
-`College Sessions` · `Community Events` · `Workshops` · `Technical Talks`
-
-📩 **Speaking / collaboration:** `devuz19693@gmail.com`
-
----
-
-## `07` — freelance
-
-### `50+ clients`
-
-I've worked with **50+ freelance clients** across development, design and technology.
-
-```text
-FULL-STACK DEVELOPMENT
-AI APPLICATIONS
-UI / UX DESIGN
-GRAPHIC DESIGN
-PORTFOLIO WEBSITES
-AI / RAG PROTOTYPES
-TECHNICAL CONSULTING
-WORKSHOPS
-```
-
-**Want to work together?**
-
-→ `devuz19693@gmail.com`
-
----
-
-## `08` — milestones
-
-<div align="center">
-
-|    | Milestone                          |
-| -- | ---------------------------------- |
-| 🌸 | Smart India Hackathon Nominee      |
-| 🚀 | ISRO Bharatiya Antariksh Hackathon |
-| 🤖 | Microsoft AI Skills Fest           |
-| ✨  | Google Gemini Student Ambassador   |
-| 🌍 | Open Source Contributor            |
-| 💼 | 50+ Freelance Clients              |
-| 🎤 | Technical Speaker                  |
-
-</div>
-
----
-
-# `09` — GitHub analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
-
-</div>
+Experimental AI-powered environment understanding focused on accessibility and human-AI interaction.
 
 <br>
 
+<a href="https://echolens-opal.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎧 DewDrop FM
+
+**Music, redesigned.**
+
+A modern music experience exploring interface, interaction and discovery.
+
+<br>
+
+<a href="https://dew-drop-fm.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ More experiments
+
+AI prototypes.
+Web experiments.
+Research ideas.
+Design systems.
+Things that probably started at 2 AM.
+
+<br>
+
+<a href="https://github.com/devzzafk?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOS-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ✦ WHAT I'M EXPLORING
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devzzafk&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,aws,gcp,git,github,linux,figma" />
+
+<br><br>
+
+`AGENTIC AI`    `RAG`    `MCP`    `VECTOR SEARCH`
+
+`BCI`    `NEUROTECH`    `MACHINE LEARNING`    `DATA`
 
 </div>
 
 ---
 
-## `10` — GitHub trophies
+# ✦ THE CURRENT RABBIT HOLES
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🧠
+
+**BCI**
+
+Brain
+↓
+Signal
+↓
+Machine
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**AGENTS**
+
+Think
+↓
+Remember
+↓
+Act
+
+</td>
+
+<td align="center">
+
+### 📚
+
+**RAG**
+
+Retrieve
+↓
+Reason
+↓
+Respond
+
+</td>
+
+<td align="center">
+
+### 🎨
+
+**HCI**
+
+Human
+↓
+Interface
+↓
+Experience
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ✦ GITHUB
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devzzafk&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&count_private=true&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=devzzafk&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"/>
 
 </div>
 
 ---
 
-## `11` — contribution graph
+# ✦ TROPHY CASE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devzzafk&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=F9A8D4&area_color=312E81&area=true&hide_border=true&custom_title=Devi%27s%20Contribution%20Graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devzzafk&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
 
 </div>
 
 ---
 
-## `12` — LeetCode
+# ✦ CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devzzafk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+
+</div>
+
+---
+
+# ✦ LEETCODE
 
 <div align="center">
 
 <a href="https://leetcode.com/u/devzzafk/">
 
-<img src="https://leetcard.jacoblin.cool/devzzafk?theme=dark&font=Karma&ext=heatmap" width="500"/>
+<img src="https://leetcard.jacoblin.cool/devzzafk?theme=dark&font=Baloo&ext=heatmap" width="520"/>
 
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/devzzafk/">
-
-<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
 ---
 
-## `13` — contribution snake
+# ✦ CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devzzafk/devzzafk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/devzzafk/devzzafk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## `14` — around the internet
+# ✦ BUILDER MODE
+
+```text
+                         ┌───────────────┐
+                         │    CURIOUS    │
+                         └───────┬───────┘
+                                 ↓
+                        ┌────────────────┐
+                        │    RESEARCH    │
+                        └───────┬────────┘
+                                ↓
+                      ┌──────────────────┐
+                      │     PROTOTYPE    │
+                      └────────┬─────────┘
+                               ↓
+                       ┌───────────────┐
+                       │     BUILD     │
+                       └───────┬───────┘
+                               ↓
+                        ┌─────────────┐
+                        │     SHIP    │
+                        └──────┬──────┘
+                               ↓
+                           repeat ↻
+```
+
+---
+
+# ✦ COMMUNITY
 
 <div align="center">
 
-<a href="https://devi-portfolios.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+| `ROLE`                           | `COMMUNITY`           |
+| :------------------------------- | :-------------------- |
+| ⚡ Technical Lead · 2026          | AWS Student Community |
+| ✨ Student Ambassador             | Google Gemini         |
+| 🌐 Member                        | Google Developers     |
+| 🧠 Member                        | NeuroTechX            |
+| 🚀 Campus Lead · 2025            | OSCG                  |
+| 🌱 Program Coordination · 2026   | Bodhi Club            |
+| ✍️ Content Co-Lead · 2025        | AlgoZenith            |
+| 💻 First Year Coordinator · 2025 | TinkerHub             |
+
+</div>
+
+---
+
+# ✦ SPEAKING
+
+<div align="center">
+
+`WEB DEVELOPMENT`   `RAG`   `AI`
+
+`BCI`   `NEUROTECHNOLOGY`   `OPEN SOURCE`
+
+`FREELANCING`   `DEVELOPER COMMUNITIES`
+
+<br><br>
+
+**Online + Offline Technical Sessions**
+
+</div>
+
+---
+
+# ✦ A FEW MILESTONES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Nominee-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ISRO-Bharatiya%20Antariksh%20Hackathon-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google-Gemini%20Student%20Ambassador-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Freelancing-50%2B%20Clients-F97316?style=flat-square"/>
+
+</div>
+
+---
+
+# ✦ FIND ME
+
+<div align="center">
+
+<a href="https://github.com/devzzafk">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/devichandrans/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/juuneverse/">
-<img src="https://img.shields.io/badge/JUUNEVERSE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/@juuneverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/juness.archives/">
-<img src="https://img.shields.io/badge/JUNES%20ARCHIVES-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/@juness.archives-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="mailto:devuz19693@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEVUZ19693%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -399,27 +426,10 @@ WORKSHOPS
 
 <div align="center">
 
-### `currently building things i'm curious about.`
+### `BUILD → BREAK → LEARN → SHIP`
 
 <br>
 
-```text
-learn  →  build  →  break  →  understand  →  ship
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312e81,50:171329,100:09090b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4C1D95,50:111827,100:050505" width="100%"/>
 
 </div>
-
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Hey, future me.
-
-Keep building.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
-
