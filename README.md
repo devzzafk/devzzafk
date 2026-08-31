@@ -1,423 +1,403 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=DEVI%20CHANDRAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%20%E2%80%A2%20%20OPEN%20SOURCE%20%20%E2%80%A2%20%20NEUROTECHNOLOGY&descAlignY=58&descSize=16&color=0:050505,50:111827,100:4C1D95" width="100%"/>
+# Hey, I'm Devi Chandran S 👋
 
-<br>
+### `Software Engineer` · `AI/ML Explorer` · `Neurotech Enthusiast` · `Designer` · `Technical Speaker`
 
-<a href="https://github.com/devzzafk">
-<img src="https://img.shields.io/badge/GITHUB-devzzafk-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+things+that+connect+humans+%26+technology;Exploring+AI%2C+ML%2C+BCIs+%26+intelligent+systems;Software+Engineer+%7C+Researcher+%7C+Designer;Learning+something+new%2C+every+day." alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:devuz19693@gmail.com">
+  <img src="https://img.shields.io/badge/Email-devuz19693%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://devi-portfolios.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/devichandrans/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Devi%20Chandran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://leetcode.com/u/devzzafk/">
-<img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=building+open+source+%E2%9C%A6;exploring+AI+agents+%26+memory;researching+neurotechnology+%26+BCIs;shipping+ideas+into+real+projects;technical+speaker+%7C+freelancer"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=devzzafk&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `I build things I'm curious about.`
-
-**AI systems · Open source · Neurotechnology · Interfaces**
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### `50+`
-
-**Clients**
-
-</td>
-
-<td align="center" width="25%">
-
-### `∞`
-
-**Ideas**
-
-</td>
-
-<td align="center" width="25%">
-
-### `AI`
-
-**Current rabbit hole**
-
-</td>
-
-<td align="center" width="25%">
-
-### `24/7`
-
-**Building mode**
-
-</td>
-</tr>
-</table>
-
----
-
-# ✦ SELECTED WORK
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Aether Protocol
-
-**Memory for AI agents.**
-
-An open-source memory platform with:
-
-`Semantic Search`
-`Long-Term Memory`
-`User Profiling`
-`MCP`
-
-<br>
-
-<a href="https://aether-protocols.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Building%20in%20public-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-## 👁️ EchoLens
-
-**Understanding unfamiliar spaces.**
-
-Experimental AI-powered environment understanding focused on accessibility and human-AI interaction.
-
-<br>
-
-<a href="https://echolens-opal.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎧 DewDrop FM
-
-**Music, redesigned.**
-
-A modern music experience exploring interface, interaction and discovery.
-
-<br>
-
-<a href="https://dew-drop-fm.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ More experiments
-
-AI prototypes.
-Web experiments.
-Research ideas.
-Design systems.
-Things that probably started at 2 AM.
-
-<br>
-
-<a href="https://github.com/devzzafk?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOS-111111?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ✦ WHAT I'M EXPLORING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,flutter,tensorflow,pytorch,docker,aws,gcp,git,github,linux,figma" />
-
-<br><br>
-
-`AGENTIC AI`    `RAG`    `MCP`    `VECTOR SEARCH`
-
-`BCI`    `NEUROTECH`    `MACHINE LEARNING`    `DATA`
-
 </div>
 
 ---
 
-# ✦ THE CURRENT RABBIT HOLES
+## 👩‍💻 About Me
 
-<table>
-<tr>
+I'm a **multidisciplinary builder** who doesn't really believe in staying inside one box.
 
-<td align="center">
+I work across **software engineering, AI/ML, neurotechnology, research, design, and community building** — exploring how different fields can come together to create useful technology.
 
-### 🧠
+I'm a freelance software engineer and designer who has worked with **70+ clients worldwide**, delivering websites, full-stack applications, digital products, and creative work.
 
-**BCI**
+I also document what I build, learn, break, research, and experiment with.
 
-Brain
-↓
-Signal
-↓
-Machine
+> **I like learning everything — then connecting the dots between them.**
 
-</td>
+Currently exploring:
 
-<td align="center">
-
-### 🤖
-
-**AGENTS**
-
-Think
-↓
-Remember
-↓
-Act
-
-</td>
-
-<td align="center">
-
-### 📚
-
-**RAG**
-
-Retrieve
-↓
-Reason
-↓
-Respond
-
-</td>
-
-<td align="center">
-
-### 🎨
-
-**HCI**
-
-Human
-↓
-Interface
-↓
-Experience
-
-</td>
-
-</tr>
-</table>
+* 🧠 Brain–Computer Interfaces & Neurotechnology
+* 🤖 AI / ML / RAG / Agentic AI
+* 💻 Full-stack & Web Development
+* 📱 Application Development
+* ☁️ Cloud Computing
+* 📊 Data Science & Time-Series Data
+* 🎨 Graphic Design & Brand Identity
+* 🔬 Research & Experimental Technology
+* 🌐 Open Source & Developer Communities
 
 ---
 
-# ✦ GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devzzafk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&count_private=true&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzzafk&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=devzzafk&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"/>
-
-</div>
-
----
-
-# ✦ TROPHY CASE
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devzzafk&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
-
-</div>
-
----
-
-# ✦ CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devzzafk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-# ✦ LEETCODE
-
-<div align="center">
-
-<a href="https://leetcode.com/u/devzzafk/">
-
-<img src="https://leetcard.jacoblin.cool/devzzafk?theme=dark&font=Baloo&ext=heatmap" width="520"/>
-
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</div>
-
----
-
-# ✦ CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devzzafk/devzzafk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# ✦ BUILDER MODE
+## 🚀 What I Do
 
 ```text
-                         ┌───────────────┐
-                         │    CURIOUS    │
-                         └───────┬───────┘
-                                 ↓
-                        ┌────────────────┐
-                        │    RESEARCH    │
-                        └───────┬────────┘
-                                ↓
-                      ┌──────────────────┐
-                      │     PROTOTYPE    │
-                      └────────┬─────────┘
-                               ↓
-                       ┌───────────────┐
-                       │     BUILD     │
-                       └───────┬───────┘
-                               ↓
-                        ┌─────────────┐
-                        │     SHIP    │
-                        └──────┬──────┘
-                               ↓
-                           repeat ↻
+Software Engineering    → Websites • Full-stack Apps • APIs • Digital Products
+AI / ML                 → ML • RAG • AI Systems • Experimentation
+Neurotechnology         → BCI • EEG • Assistive Technology • Neural Systems
+Research                → Prototyping • Technical Exploration • Documentation
+Design                  → Branding • Graphic Design • Brandfolio • Visual Systems
+Community               → Developer Communities • Events • Workshops • Speaking
+Content                  → Tech Content • Learning Journeys • Documentation
 ```
 
 ---
 
-# ✦ COMMUNITY
+# 🧠 JuneVerse
 
-<div align="center">
+### `Research · Build · Document · Explore`
 
-| `ROLE`                           | `COMMUNITY`           |
-| :------------------------------- | :-------------------- |
-| ⚡ Technical Lead · 2026          | AWS Student Community |
-| ✨ Student Ambassador             | Google Gemini         |
-| 🌐 Member                        | Google Developers     |
-| 🧠 Member                        | NeuroTechX            |
-| 🚀 Campus Lead · 2025            | OSCG                  |
-| 🌱 Program Coordination · 2026   | Bodhi Club            |
-| ✍️ Content Co-Lead · 2025        | AlgoZenith            |
-| 💻 First Year Coordinator · 2025 | TinkerHub             |
+**JuneVerse** is my research and creation platform where I document experiments, ideas, technologies, and things I'm learning.
 
-</div>
+It's particularly focused on technologies that explore the relationship between **humans, machines, and intelligent systems**.
 
----
+I'm using JuneVerse to explore and prototype ideas around:
 
-# ✦ SPEAKING
+* 🧠 Brain–Computer Interfaces
+* 🤖 AI & Agentic Systems
+* 📊 Applied Machine Learning
+* 🔬 Neurotechnology
+* 🧩 Human–Machine Interaction
+* ⚡ Experimental Technology
 
-<div align="center">
-
-`WEB DEVELOPMENT`   `RAG`   `AI`
-
-`BCI`   `NEUROTECHNOLOGY`   `OPEN SOURCE`
-
-`FREELANCING`   `DEVELOPER COMMUNITIES`
-
-<br><br>
-
-**Online + Offline Technical Sessions**
-
-</div>
-
----
-
-# ✦ A FEW MILESTONES
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Nominee-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISRO-Bharatiya%20Antariksh%20Hackathon-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google-Gemini%20Student%20Ambassador-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Freelancing-50%2B%20Clients-F97316?style=flat-square"/>
-
-</div>
-
----
-
-# ✦ FIND ME
-
-<div align="center">
-
-<a href="https://github.com/devzzafk">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/devichandrans/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+### Follow the journey
 
 <a href="https://www.instagram.com/juuneverse/">
-<img src="https://img.shields.io/badge/@juuneverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/JuneVerse-Documenting%20Technology-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+---
+
+# 🎨 Junes.archives
+
+Not everything I build is code.
+
+**Junes.archives** is where I explore my creative side through **graphic design, branding, visual experiments, and Brandfolio work**.
+
+I use it as a space to experiment with:
+
+`Brand Identity` · `Poster Design` · `Typography` · `Visual Design` · `Creative Direction`
 
 <a href="https://www.instagram.com/juness.archives/">
-<img src="https://img.shields.io/badge/@juness.archives-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Junes.archives-Graphic%20Design-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+---
+
+# 🧪 Featured Projects
+
+### 🔊 EchoLens
+
+An experimental **AI-powered environment understanding system** designed to help people interpret and navigate unfamiliar physical spaces.
+
+A step toward exploring more intelligent **spatial awareness and assistive technology**.
+
+**Explore →** https://echolens-opal.vercel.app/
+
+---
+
+### 🧠 NeuroBridge
+
+A simulated **Brain–Computer Interface platform** exploring how neural signals could enable more accessible communication and interaction.
+
+Built as an exploration of **BCI + assistive communication**.
+
+**Explore →** https://neurobridge-1r72.vercel.app/
+
+---
+
+### 🧬 Axiom Neural
+
+An open-source **time-series simulation framework and REST API engine** for generating high-fidelity, privacy-preserving synthetic EEG datasets.
+
+Built with:
+
+`FastAPI` · `NumPy` · `Python`
+
+Designed for experimentation, neural engineering, and **BCI model validation**.
+
+**Explore →** https://axiom-neurals.netlify.app/
+
+---
+
+# 💼 Experience
+
+### 🧑‍💻 Freelance Software Engineer & Designer
+
+**Self-employed · 70+ Clients Worldwide**
+
+* Delivered websites, full-stack applications, digital products, and design work
+* Worked directly with clients to translate requirements into production-ready solutions
+* Built custom web experiences and content management workflows
+* Created bespoke graphic design and branding assets
+* Worked across multiple industries and project types
+
+---
+
+### 🔬 Data Science Intern
+
+**Retchnox Technologies**
+
+* Worked on data-driven projects involving analysis, modelling, and experimentation
+* Applied Python and machine-learning tooling to real-world datasets
+* Supported research and product-oriented workflows
+
+---
+
+### 🧠 Founder — JuneVerse
+
+Founded a digital **research and creation platform** focused on technologies connecting humans, machines, and intelligent systems.
+
+Currently exploring:
+
+`BCIs` · `Neurotechnology` · `Agentic AI` · `Applied ML` · `Human–Machine Interaction`
+
+---
+
+### 🎥 Tech Content Creator
+
+Documenting projects, tutorials, experiments, and learning journeys across:
+
+`AI` · `ML` · `RAG` · `BCIs` · `Web Development` · `Cloud`
+
+---
+
+# 🌐 Community & Leadership
+
+### ☁️ Director of Technical
+
+**AWS Student Builders Group — LBSITW '26**
+
+Leading technical initiatives, sessions, workshops, and developer-focused activities within the community.
+
+---
+
+### ✨ Gemini Student Ambassador '25
+
+Part of the **Gemini Student Ambassador** community, exploring and sharing Google's AI ecosystem with students and developers.
+
+---
+
+### 🧠 Neurotechnology Community
+
+Active contributor to the **Neurotech community since 2025**, participating in discussions, projects, knowledge sharing, and research-oriented activities.
+
+---
+
+### 🌐 Google Developer Groups
+
+Active member and contributor to the **Google Developer Groups ecosystem since 2025**, participating in technical activities and community initiatives.
+
+---
+
+### 🛠️ TinkerHub — First Year Coordinator '25
+
+Worked with the TinkerHub community to encourage students to explore technology, open source, and developer culture.
+
+---
+
+### 🌍 Open Source Connect Global — Campus Lead '25
+
+Served as a **Campus Lead** for Open Source Connect Global 2025, helping promote open-source participation and community engagement.
+
+---
+
+# 🎤 Technical Speaker
+
+I enjoy teaching what I'm learning.
+
+I've conducted technical sessions and workshops covering:
+
+* 🌐 Web Development
+* 🧠 Brain–Computer Interfaces
+* 🤖 Machine Learning
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 📱 App Development
+* ☁️ Cloud Computing
+* 🧪 AI & Emerging Technologies
+
+My favourite part of speaking isn't just presenting — it's making complicated concepts feel **buildable**.
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,js,ts,html,css"/>
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,fastapi,tailwind"/>
+</p>
+
+`NumPy` · `SciPy` · `scikit-learn` · `MNE` · `Matplotlib`
+
+### 🤖 AI / ML
+
+`Machine Learning` · `RAG` · `LLM Applications` · `Agentic AI` · `Computer Vision`
+
+`scikit-learn` · `NumPy` · `SciPy` · `MNE`
+
+### 🧠 Neurotechnology
+
+`EEG` · `BCI` · `Signal Processing` · `CSP` · `Neural Data`
+
+### ☁️ Cloud / Platforms / Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github,git,figma,vscode"/>
+</p>
+
+`Google AI Studio` · `Gemini` · `Claude` · `Replit`
+
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,postgresql,mysql"/>
+</p>
+
+`REST APIs` · `FastAPI` · `Node.js`
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps"/>
+</p>
+
+`Adobe Illustrator` · `Adobe Photoshop` · `Brand Identity` · `Poster Design` · `Typography` · `Brandfolio`
+
+---
+
+# 🏆 Highlights & Achievements
+
+| Year        | Highlight                                               |
+| ----------- | ------------------------------------------------------- |
+| **2026**    | 🚀 Microsoft AI Skills Fest — Participant & Badge       |
+| **2026**    | ☁️ Director of Technical — AWS SBG LBSITW               |
+| **2025**    | ✨ Gemini Student Ambassador                             |
+| **2025**    | 🌍 Open Source Connect Global — Campus Lead             |
+| **2025**    | 🛠️ TinkerHub — First Year Coordinator                  |
+| **2025 →**  | 🧠 Active Neurotech Community Contributor               |
+| **2025 →**  | 🌐 Active Google Developer Groups Contributor           |
+| **2025 →**  | 🚀 ISRO Bharatiya Antariksh Hackathon Participant       |
+| **Ongoing** | 🎤 Technical Speaker                                    |
+| **Ongoing** | 💻 Freelance Software Engineer & Designer — 70+ clients |
+
+---
+
+# 🚀 Things I've Been Exploring
+
+```yaml
+Currently:
+  - Artificial Intelligence
+  - Agentic AI
+  - Retrieval Augmented Generation
+  - Machine Learning
+  - Brain Computer Interfaces
+  - Neurotechnology
+  - EEG Signal Processing
+  - Full Stack Development
+  - Cloud Computing
+  - Open Source
+
+Creative:
+  - Graphic Design
+  - Branding
+  - Brandfolio
+  - Typography
+  - Visual Storytelling
+
+Always:
+  - Learning
+  - Building
+  - Experimenting
+  - Documenting
+  - Teaching
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 💬 Let's Connect
+
+I'm always interested in meeting people who are building interesting things.
+
+Whether it's **AI, neurotechnology, software, design, research, open source, or just a weird idea worth experimenting with** — let's talk.
+
+<div align="center">
 
 <a href="mailto:devuz19693@gmail.com">
-<img src="https://img.shields.io/badge/DEVUZ19693%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devichandrans/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/juuneverse/">
+<img src="https://img.shields.io/badge/JuneVerse-Follow%20the%20research-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/juness.archives/">
+<img src="https://img.shields.io/badge/Junes.archives-See%20the%20designs-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -426,10 +406,10 @@ Experience
 
 <div align="center">
 
-### `BUILD → BREAK → LEARN → SHIP`
+### ✦ Build. Break. Learn. Document. Repeat. ✦
 
-<br>
+**Thanks for stopping by!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4C1D95,50:111827,100:050505" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
 </div>
